@@ -1,2 +1,1 @@
-# Parallax
-Parallax website using HTML and CSS
+Created a parallax web page using html, css.
